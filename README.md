@@ -31,11 +31,11 @@
 
 <br>
 
-<img width="600px" src="https://github-readme-stats.vercel.app/api?username=shajinahsan&theme=dracula&border_radius=10&&text_color=F7F7F1&bg_color=1C1E26&title_color=3FDAA4" />
+<img width="600px" src="https://github-readme-stats.vercel.app/api?username=shajinahsan&border_radius=10&&text_color=F7F7F1&bg_color=1C1E26&title_color=3FDAA4" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shajinahsan&text_color=F7F7F1&bg_color=1C1E26&title_color=3FDAA4&border_radius=10&card_width=600" />
 <br>
 
 ### Pinned repositories
 
-[![Dark Mode Toggle](https://github-readme-stats.vercel.app/api/pin/?username=shajinahsan&repo=dark-mode-toggle&theme=dracula&border_radius=10&text_color=F7F7F1&bg_color=1C1E26&title_color=3FDAA4)](https://github.com/ShajinAhsan/dark-mode-toggle)
-[![Digital Watch](https://github-readme-stats.vercel.app/api/pin/?username=shajinahsan&repo=Digital-Clock&theme=dracula&border_radius=10&text_color=F7F7F1&bg_color=1C1E26&title_color=3FDAA4)](https://github.com/ShajinAhsan/Digital-Clock)
+[![Dark Mode Toggle](https://github-readme-stats.vercel.app/api/pin/?username=shajinahsan&repo=dark-mode-toggle&border_radius=10&text_color=F7F7F1&bg_color=1C1E26&title_color=3FDAA4)](https://github.com/ShajinAhsan/dark-mode-toggle)
+[![Digital Watch](https://github-readme-stats.vercel.app/api/pin/?username=shajinahsan&repo=Digital-Clock&border_radius=10&text_color=F7F7F1&bg_color=1C1E26&title_color=3FDAA4)](https://github.com/ShajinAhsan/Digital-Clock)

@@ -38,5 +38,4 @@
 ### Pinned repositories
 
 [![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=shajinahsan&repo=Weather-App&border_radius=10&text_color=F7F7F1&bg_color=1C1E26&title_color=3FDAA4)](https://github.com/ShajinAhsan/Weather-App)
-[![Dark Mode Toggle](https://github-readme-stats.vercel.app/api/pin/?username=shajinahsan&repo=dark-mode-toggle&border_radius=10&text_color=F7F7F1&bg_color=1C1E26&title_color=3FDAA4)](https://github.com/ShajinAhsan/dark-mode-toggle)
 [![Digital Watch](https://github-readme-stats.vercel.app/api/pin/?username=shajinahsan&repo=Digital-Clock&border_radius=10&text_color=F7F7F1&bg_color=1C1E26&title_color=3FDAA4)](https://github.com/ShajinAhsan/Digital-Clock)
